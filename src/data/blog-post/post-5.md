@@ -1,7 +1,7 @@
 ---
 title: "THE POINT OF USING LOREM IPSUM THAT MORE-OR-LESS NORMAL"
 image: { src: "../../data/images/blog/5.jpg", alt: "SEEN APPLE" }
-date: "2021-01-21"
+date: "2023-01-21"
 author: "Harold Leonard"
 quote_text: "The use of apps in investment ideas is a great way to enjoy the convenience."
 categories:
