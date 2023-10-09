@@ -1,0 +1,68 @@
+{
+    "id": "menu-data",
+    "section": "menu",
+    "menu": [
+        {
+            "id": "menu-1",
+            "text": "Home",
+            "link": "/"
+        },
+        {
+            "id": "menu-3",
+            "text": "Pages",
+            "link": "/faq",
+            "submenu": [
+                {
+                    "id": "menu-31",
+                    "text": "About Us Page",
+                    "link": "/about-us"
+                },
+                {
+                    "id": "menu-32",
+                    "text": "Games Page",
+                    "link": "/games"
+                },
+                {
+                    "id": "menu-33",
+                    "text": "FAQ's Page",
+                    "link": "/faq"
+                },
+                {
+                    "id": "menu-34",
+                    "text": "Game players",
+                    "link": "/players"
+                },
+                {
+                    "id": "menu-35",
+                    "text": "404 not found!",
+                    "link": "/404"
+                },
+                {
+                    "id": "menu-36",
+                    "text": "Login Page",
+                    "link": "/login"
+                },
+                {
+                    "id": "menu-37",
+                    "text": "Register Page",
+                    "link": "/register"
+                },
+                {
+                    "id": "menu-38",
+                    "text": "Bettle team Page",
+                    "link": "/bettle-teams"
+                }
+            ]
+        },
+        {
+            "id": "menu-2",
+            "text": "WHITEPAPER",
+            "link": "/match"
+        },
+        {
+            "id": "menu-5",
+            "text": "Contact",
+            "link": "/contact-us"
+        }
+    ]
+}
